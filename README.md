@@ -9,4 +9,4 @@ Updat employee role.<br>
 
 ## Structure:
 The following is the basic structure of this application:
-<img src="Assets/schema.PNG">
+<img src="Assets/schema.png">
